@@ -14,6 +14,8 @@ CCHLA - Psicologia, Ciências Sociais, História, Gestão em Políticas Pública
 
 CCSA - Ciências Contábeis, Direito, Serviço Social, Administração e Turismo.
 
+CE - Pedagogia
+
 CT - Engenharia Civil, Engenharia Elétrica, Engenharia de Produção, Engenharia Química  e Arquitetura e Urbanismo.
 
 + Bacharelado em Tecnologia da Informação e Ciência e Tecnologia.
