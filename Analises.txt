@@ -1,1 +1,45 @@
+Graduação
 
+Biomedicina:
+Ciencias Biológicas:
+Ecologia:
+Engenharia da Aquicultura:
+Medicina:
+Odontologia:
+Farmácia:
+Educação Física:
+Enfermagem:
+Física:
+Matemática:
+Química:
+Estatística:
+Geologia:
+Psicologia:
+Ciências Sociais:
+História:
+Dança:
+Design:
+Ciências Contábeis:
+Direito:
+Serviço Social:
+Administração:
+Turismo:
+Pedagogia:
+Engenharia Civil:
+Engenharia Elétrica:
+Engenharia de Produção:
+Engenharia Química:
+Arquitetura e Urbanismo:
+Bacharelado em Tecnologia da Informação:
+Ciência e Tecnologia:
+
+Pós Graduação
+
+Mestrado em Engenharia Elétrica e de Computação:
+Doutorado em Engenharia Elétrica e de Computação:
+Mestrado em Sistemas e Computação:
+Doutorado em Ciência da Computação:
+Mestrado Profissional em Engenharia de Software:
+Mestrado Profissional em Inovação em Tecnologias Educacionais:
+Mestrado em Bioinformática:
+Doutorado em Bioinformática:
